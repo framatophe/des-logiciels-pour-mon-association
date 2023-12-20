@@ -185,7 +185,7 @@ Pour travailler de manière collaborative, des services hébergés sur des serve
 
 <hr />
 
-# Organiser, administrer
+## Organiser, administrer
 
 
   <article class="framalibre-notice">
