@@ -1,46 +1,40 @@
 ---
-title: Ma page de recommandations
+title: "Ma page de recommandations"
 order: 0
+in_menu: true
 ---
+Vous faites partie d'une association et vous souhaitez pouvoir utiliser des logiciels libres pour vous organiser ?
 
-C'est le moment de lister vos logiciels libres préférés, pour les recommander autour de vous !
+Les membres du collectif [CHATONS](https://chatons.org) pourront vous fournir des accès aux solutions « cloud » proposées ci-dessous. D''autres logiciels peuvent être utilisés localement.
 
-Retrouvez les détails sur [https://beta.framalibre.org/mini-site](https://beta.framalibre.org/mini-site)
+# Collaborer
 
-Un exemple ci-dessous :
-
-# Mes logiciels libres pour randonner
-
-## Pour ce que j'aurai filmé
-
-<article class="framalibre-notice">
-  <div>
-    <img src="https://beta.framalibre.org/images/logo/PeerTube.png">
-  </div>
-  <div>
-    <h2>PeerTube</h2>
-    <p>PeerTube est un logiciel décentralisé et fédéré d'hébergement de vidéos.</p>
-    <div>
-      <a href="https://beta.framalibre.org/notices/peertube.html">Vers la notice Framalibre</a>
-      <a href="https://joinpeertube.org/fr/">Vers le site</a>
-    </div>
-  </div>
-</article>
-
-## Pour écouter des émissions
-
-Quand je fais une pause, j'aime bien écouter un petit podcast avec :
 
   <article class="framalibre-notice">
     <div>
-      <img src="https://beta.framalibre.org/images/logo/AntennaPod.png">
+      <img src="https://beta.framalibre.org/images/logo/Etherpad.png">
     </div>
     <div>
-      <h2>AntennaPod</h2>
-      <p>Un gestionnaire de Podcast pour Android.</p>
+      <h2>Etherpad</h2>
+      <p>Un éditeur de texte collaboratif et en temps réel !</p>
       <div>
-        <a href="https://beta.framalibre.org/notices/antennapod.html">Vers la notice Framalibre</a>
-        <a href="http://antennapod.org/">Vers le site</a>
+        <a href="https://beta.framalibre.org/notices/etherpad.html">Vers la notice Framalibre</a>
+        <a href="http://etherpad.org/">Vers le site</a>
       </div>
     </div>
   </article>
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://beta.framalibre.org/images/logo/Nextcloud.png">
+    </div>
+    <div>
+      <h2>Nextcloud</h2>
+      <p>Nextcloud est une plate-forme auto-hébergée de services de stockage et d’applications diverses dans les nuages</p>
+      <div>
+        <a href="https://beta.framalibre.org/notices/nextcloud.html">Vers la notice Framalibre</a>
+        <a href="https://nextcloud.com/">Vers le site</a>
+      </div>
+    </div>
+  </article> 
