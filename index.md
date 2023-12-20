@@ -6,7 +6,7 @@ in_menu: true
 
 **Vous faites partie d'une association et vous souhaitez pouvoir utiliser des logiciels libres pour vous organiser ?**
 
-Pour travailler de manière collaborative, des services hébergés sur des serveurs (on dit aussi « le cloud ») sont la plupart du temps nécessaires. Les membres du collectif [CHATONS](https://chatons.org) pourront vous fournir des accès à certaines solutions « cloud » proposées ci-dessous, d'autres solutions sont fournies par des hébergeurs payants. Dans tous les cas, à vous d'évaluer la confiance que vous accordez en fonction des exigences de sécurité et du niveau de service que vous recherchez. Pour vous aider, la brochure [RESOLU](https://deslivresencommuns.org/post/resolu/) éditée par Des Livres en Communs (Framasoft), pourra vous être utile.
+Pour travailler de manière collaborative, des services hébergés sur des serveurs (on dit aussi « le cloud ») sont la plupart du temps nécessaires. Les membres du collectif [CHATONS](https://chatons.org) pourront vous fournir des accès à certaines solutions « cloud » proposées ci-dessous, d'autres solutions sont fournies par des hébergeurs payants. Dans tous les cas, à vous d'évaluer la confiance que vous accordez en fonction des exigences de sécurité et du niveau de service que vous recherchez. La brochure [RESOLU](https://deslivresencommuns.org/post/resolu/) éditée par Des Livres en Communs (Framasoft), pourra vous être utile.
 
 <hr/>
 
