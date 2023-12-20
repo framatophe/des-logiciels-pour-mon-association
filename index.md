@@ -102,7 +102,7 @@ Pour travailler de manière collaborative, des services hébergés sur des serve
   </article>
 
 
-  # Communiquer
+# Communiquer
   
 
   <article class="framalibre-notice">
